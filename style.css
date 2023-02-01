@@ -169,13 +169,3 @@ textarea:focus,
 input:focus {
   outline: none;
 }
-
-@media (min-width: 600px) {
-  .chat:nth-child(3) {
-    width: 32rem;
-  }
-
-  .chat:nth-child(1) {
-    width: 18.5rem;
-  }
-}
