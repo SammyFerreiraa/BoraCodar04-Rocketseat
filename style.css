@@ -25,6 +25,7 @@ body {
 }
 
 header {
+  margin-top:4rem;
   display: flex;
   flex-direction: row;
   gap: 1.6rem;
